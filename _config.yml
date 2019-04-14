@@ -26,3 +26,9 @@ social:
   email: rohit_agarwal@live.in
 
 google_analytics: ""
+
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
+  - support-for
